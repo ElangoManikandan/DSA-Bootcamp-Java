@@ -9,7 +9,7 @@ input from the user.[Done]
 find Simple Interest.[Done]
 4. Take in two numbers and an operator (+, -, *, /) and calculate the value.
 (Use if conditions).[Done]
-5. Take 2 numbers as input and print the largest number.
+5. Take 2 numbers as input and print the largest number.[Done]
 6. Input currency in rupees and output in USD.
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
