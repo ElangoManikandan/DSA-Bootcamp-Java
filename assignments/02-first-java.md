@@ -13,5 +13,5 @@ find Simple Interest.[Done]
 6. Input currency in rupees and output in USD.[Done]
 7. To calculate Fibonacci Series up to n numbers.[Done]
 8. To find out whether the given String is Palindrome or not.[Done]
-9. To find Armstrong Number between two given number.
+9. To find Armstrong Number between two given number.[Done]
 
