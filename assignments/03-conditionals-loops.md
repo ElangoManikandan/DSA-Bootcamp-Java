@@ -14,7 +14,7 @@
 10. Perimeter Of Parallelogram ✔️
 11. Perimeter Of Rectangle ✔️
 12. Perimeter Of Square ✔️
-13. Perimeter Of Rhombus
+13. Perimeter Of Rhombus ✔️
 14. Volume Of Cone Java Program
 15. Volume Of Prism
 16. Volume Of Cylinder
