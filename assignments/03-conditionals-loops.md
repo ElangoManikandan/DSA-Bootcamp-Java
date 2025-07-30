@@ -9,7 +9,7 @@
 5. Area Of Parallelogram ✔️
 6. Area Of Rhombus ✔️
 7. Area Of Equilateral Triangle ✔️
-8. Perimeter Of Circle
+8. Perimeter Of Circle ✔️
 9. Perimeter Of Equilateral Triangle
 10. Perimeter Of Parallelogram
 11. Perimeter Of Rectangle
