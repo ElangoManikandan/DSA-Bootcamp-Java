@@ -28,7 +28,7 @@
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
 (HINT: while loop)✔️
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
+all.✔️
 26. Addition Of Two Numbers
 
 ### Intermediate Java Programs
