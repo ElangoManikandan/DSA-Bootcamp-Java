@@ -40,7 +40,7 @@ all.✔️
 6. Calculate Commission Percentage ✔️
 7. Power In Java ✔️
 8. Calculate Depreciation of Value ✔️
-9. Calculate Batting Average
+9. Calculate Batting Average ✔️
 10. Calculate CGPA Java Program
 11. Compound Interest Java Program
 12. Calculate Average Marks
