@@ -45,7 +45,7 @@ all.✔️
 11. Compound Interest Java Program ✔️
 12. Calculate Average Marks ✔️
 13. Sum Of N Numbers ✔️
-14. Armstrong Number In Java
+14. Armstrong Number In Java ✔️
 15. Find Ncr & Npr
 16. Reverse A String In Java
 17. Find if a number is palindrome or not 
