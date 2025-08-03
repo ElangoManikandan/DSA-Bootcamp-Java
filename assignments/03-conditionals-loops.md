@@ -43,7 +43,7 @@ all.✔️
 9. Calculate Batting Average ✔️
 10. Calculate CGPA Java Program
 11. Compound Interest Java Program ✔️
-12. Calculate Average Marks 
+12. Calculate Average Marks ✔️
 13. Sum Of N Numbers
 14. Armstrong Number In Java
 15. Find Ncr & Npr
