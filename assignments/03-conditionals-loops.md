@@ -49,7 +49,7 @@ all.✔️
 15. Find Ncr & Npr ✔️
 16. Reverse A String In Java ✔️
 17. Find if a number is palindrome or not ✔️
-18. Future Investment Value
+18. Future Investment Value ✔️
 19. HCF Of Two Numbers Program
 20. LCM Of Two Numbers
 21. Java Program Vowel Or Consonant 
