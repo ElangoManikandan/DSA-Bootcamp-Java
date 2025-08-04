@@ -53,7 +53,7 @@ all.✔️
 19. HCF Of Two Numbers Program ✔️
 20. LCM Of Two Numbers ✔️
 21. Java Program Vowel Or Consonant ✔️
-22. Perfect Number In Java
+22. Perfect Number In Java ✔️
 23. Check Leap Year Or Not
 24. Sum Of A Digits Of Number
 25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
